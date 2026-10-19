@@ -2,6 +2,26 @@
 
 # Daily Progress Log
 
+## Day 04 - 19th Oct 2026
+
+### What I did:
+
+- Practiced Java Arrays Level 1 and Level 2 programming assignments.
+- Learned to store, access, and process data using one-dimensional and two-dimensional arrays.
+- Practiced array operations such as finding the largest and smallest elements, reversing numbers, calculating BMI, and finding digit frequencies.
+- Completed Methods Level 1, Level 2, and Level 3 programming assignments.
+- Practiced creating methods with parameters and return values, using static methods, recursion, and mathematical operations.
+- Implemented programs involving number checking, unit conversion, random number generation, student scorecards, and matrix manipulation.
+- Organized the programs into the appropriate packages and pushed the completed work to GitHub.
+
+### What I will do:
+
+- Revise the completed Arrays and Methods programs.
+- Practice more Java problems to strengthen logical thinking and problem-solving skills.
+- Continue with upcoming Java assignments while following proper coding practices.
+
+**Issues Faced:** Faced some difficulty understanding array logic, method implementation, and matrix operations. Resolved the doubts through practice and debugging.
+
 ## Day 03 - 17th Oct 2026
 
 ### What I did:
