@@ -11,6 +11,25 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
+### Day 06 – 22 Oct 2026
+
+**What I did:**
+
+- Completed Object-Oriented Fundamentals Level 1 and Level 2 assignments using classes, objects, constructors, and encapsulation.
+- Completed Constructor Level 1 programs covering default, parameterized, and copy constructors, along with constructor chaining.
+- Practiced instance and class variables and methods in Level 2.
+- Completed Level 3 exercises covering public, protected, and private access modifiers and basic inheritance.
+- Organized the programs into their respective packages.
+
+**What I will do:**
+
+- Revise constructors, static members, and access modifiers.
+- Continue with upcoming Object-Oriented Programming assignments.
+
+**Issues Faced:** Faced some confusion between instance and static members, which was resolved by comparing object-specific data with data shared across all objects.
+
+---
+
 ### Day 05 – 21 Oct 2026
 
 **What I did:**
