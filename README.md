@@ -11,6 +11,25 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
+### Day 07 – 23 Oct 2026
+
+**What I did:**
+
+- Completed Java programs demonstrating `this`, `static`, `final`, and `instanceof`.
+- Practiced object relationships through association, aggregation, and composition.
+- Implemented object communication in library, banking, university, hospital, and e-commerce systems.
+- Created class, object, and sequence diagrams using PlantUML for school results and grocery billing applications.
+- Organized and pushed the Java assignments to the OOP branch.
+
+**What I will do:**
+
+- Revise object relationships and UML diagram notation.
+- Continue with upcoming Object-Oriented Programming assignments.
+
+**Issues Faced:** Initially found it difficult to distinguish aggregation from composition, which became clearer through examples of independent and dependent object lifecycles.
+
+---
+
 ### Day 06 – 22 Oct 2026
 
 **What I did:**
