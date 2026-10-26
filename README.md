@@ -11,7 +11,24 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
-### Day 07 – 23 Oct 2026
+### Day 08 – 24 Oct 2026
+
+**What I did:**
+
+- Completed assignments covering encapsulation, polymorphism, abstraction, and inheritance.
+- Practiced method overriding, abstract classes, interfaces, and inheritance hierarchies.
+- Applied OOP concepts to banking, employee management, library, hospital, and vehicle systems.
+- Organized 19 programs into the `EncPolyAbs` and `Inheritance` packages.
+- Compiled the programs and pushed them to the OOP branch on GitHub.
+
+**What I will do:**
+
+- Revise inheritance, abstraction, and polymorphism.
+- Continue practicing OOP concepts through upcoming assignments.
+
+**Issues Faced:** None.
+
+---### Day 07 – 23 Oct 2026
 
 **What I did:**
 
