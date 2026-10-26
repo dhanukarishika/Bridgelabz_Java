@@ -28,6 +28,8 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 **Issues Faced:** None.
 
+---
+
 ### Day 07 – 23 Oct 2026
 
 **What I did:**
