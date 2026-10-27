@@ -11,7 +11,7 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
-### 26th October 2026
+### Day 08 – 26 Oct 2026
 
 **What I did:**
 - Studied the fundamentals of Linked Lists and revised related OOP concepts.
