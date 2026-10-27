@@ -11,6 +11,22 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
+### 26th October 2026
+
+**What I did:**
+- Studied the fundamentals of Linked Lists and revised related OOP concepts.
+- Watched YouTube tutorials to understand Singly Linked Lists.
+- Learned about node structure, references, and basic operations in Singly Linked Lists.
+
+**What I will do:**
+- Study Doubly Linked Lists and Circular Linked Lists.
+- Understand their structure and basic operations.
+- Practice implementing Linked List concepts in Java.
+
+**Issues Faced:** None.
+
+---
+
 ### Day 08 – 24 Oct 2026
 
 **What I did:**
