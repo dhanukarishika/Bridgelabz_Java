@@ -11,6 +11,23 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
+### Day 11 – 28 Oct 2026
+
+**What I did:**
+- Studied and implemented different sorting algorithms in Java.
+- Practiced Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort, Heap Sort, and Counting Sort.
+- Understood the working principles and time complexities of different sorting techniques.
+- Organized 7 sorting programs into the Sorting package and pushed them to the Data Structures branch on GitHub.
+
+**What I will do:**
+- Solve more problems based on sorting algorithms.
+- Revise sorting techniques and practice identifying suitable algorithms for different problems.
+- Continue strengthening problem-solving and logical thinking skills through Java programming.
+
+**Issues Faced:** None.
+
+---
+
 ### Day 10 – 27 Oct 2026
 
 **What I did:**
