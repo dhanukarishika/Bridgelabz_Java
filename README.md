@@ -24,6 +24,7 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 - Practice different problem-solving approaches to improve logical thinking and coding skills.
 
 **Issues Faced:** None.
+
 ---
 
 ### Day 08 – 26 Oct 2026
