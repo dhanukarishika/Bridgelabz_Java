@@ -11,6 +11,21 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
+### Day 09 – 27 Oct 2026
+
+**What I did:**
+- Understood the fundamentals of Stacks and Queues in Java.
+- Implemented basic problems to practice stack and queue operations.
+- Gave a review on OOP and String concepts.
+- Strengthened my understanding of data structures through practical implementation.
+
+**What I will do:**
+- Solve more problems based on Stacks and Queues.
+- Practice different problem-solving approaches to improve logical thinking and coding skills.
+
+**Issues Faced:** None.
+---
+
 ### Day 08 – 26 Oct 2026
 
 **What I did:**
