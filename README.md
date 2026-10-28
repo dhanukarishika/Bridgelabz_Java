@@ -11,7 +11,7 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
-### Day 09 – 27 Oct 2026
+### Day 10 – 27 Oct 2026
 
 **What I did:**
 - Understood the fundamentals of Stacks and Queues in Java.
@@ -27,7 +27,7 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ---
 
-### Day 08 – 26 Oct 2026
+### Day 09 – 26 Oct 2026
 
 **What I did:**
 - Studied the fundamentals of Linked Lists and revised related OOP concepts.
