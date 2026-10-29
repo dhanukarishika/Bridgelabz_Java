@@ -11,6 +11,23 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
+### Day 12 – 29 Oct 2026
+
+**What I did:**
+- Studied and implemented StringBuilder, StringBuffer, FileReader, and InputStreamReader concepts in Java.
+- Practiced string manipulation, file handling, and performance comparison programs.
+- Implemented Linear Search and Binary Search algorithms through different problem statements.
+- Completed 16 Java programs and organized them into the StringIOAndSearching package.
+
+**What I will do:**
+- Revise searching algorithms and file handling concepts.
+- Solve more problems to improve logical thinking and problem-solving skills.
+- Continue practicing Java Data Structures and Algorithms.
+
+**Issues Faced:** None.
+
+---
+
 ### Day 11 – 28 Oct 2026
 
 **What I did:**
