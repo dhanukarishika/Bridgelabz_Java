@@ -11,6 +11,40 @@ Java assignments and practice programs completed as part of the BridgeLabz Train
 
 ## Daily Progress Log
 
+### Day 14 – 31 Oct 2026
+
+**What I did:**
+- Practiced and implemented LeetCode problems using Java.
+- Applied Data Structures and Algorithms concepts to solve coding challenges.
+- Worked on improving logical thinking and understanding different approaches to problem-solving.
+- Revised previously learned concepts to strengthen coding fundamentals.
+
+**What I will do:**
+- Continue solving LeetCode problems of increasing difficulty.
+- Focus on optimizing solutions using time and space complexity analysis.
+- Practice more DSA problems to improve coding efficiency and confidence.
+
+**Issues Faced:** None.
+
+---
+
+### Day 13 – 30 Oct 2026
+
+**What I did:**
+- Studied Time Complexity and Space Complexity to understand algorithm efficiency.
+- Learned about Big O notation and analyzed the performance of different algorithms.
+- Revised Hashing concepts, including hash functions, buckets, and collision handling.
+- Watched YouTube tutorials to gain better clarity on the internal working of HashMaps.
+
+**What I will do:**
+- Practice analyzing time and space complexities of Java programs.
+- Solve LeetCode problems to improve problem-solving skills.
+- Continue revising Data Structures and Algorithms.
+
+**Issues Faced:** None.
+
+---
+
 ### Day 12 – 29 Oct 2026
 
 **What I did:**
