@@ -14,31 +14,7 @@ Java assignments and practice programs completed as part of the **BridgeLabz Tra
 | `feature/Collections-Streams` | Collections, Generics, Lambda Expressions, Streams, Regex, and Exception Handling. |
 | `feature/IO-DesignPattern-MultiThreading` | File I/O, Annotations, Design Patterns, Multithreading, TDD, and JUnit test cases. |
 
-### Project Folder Structure
 
-The following is the **current development layout** on `feature/IO-DesignPattern-MultiThreading` (other branches contain their respective topic packages):
-
-```text
-Bridgelabz_Java/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── Annotation/
-│   │   │   ├── DesignPattern/
-│   │   │   ├── FileIO/
-│   │   │   ├── Multithreading/
-│   │   │   └── TDD/
-│   │   └── resources/
-│   └── test/
-│       └── java/
-│           ├── Annotation/
-│           ├── FileIO/
-│           ├── Multithreading/
-│           └── TDD/
-├── .gitignore
-├── pom.xml
-└── README.md
-```
 
 ## Daily Progress Log
 
